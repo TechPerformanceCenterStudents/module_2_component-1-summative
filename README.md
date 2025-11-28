@@ -59,4 +59,4 @@ Your program must:
 | If-statement checks even/odd correctly  |         |       |
 | Output displayed correctly              |         |       |
 | Effective usage of comments             |         |       |
-| Ability to explain what has been done   |         | AI usage tracker |
+| Ability to explain what has been done(AI usage tracker)   |         |  |
