@@ -1,6 +1,8 @@
+
+  **TPC Performance Centre**
 ─────────────────────────────────────────────
              
-             **TPC Performance Centre**
+          
       Phone: 012 051 3483
       Web: techperformancecentre.com
       Address: 13 Umgazi Street,
